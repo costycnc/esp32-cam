@@ -22,5 +22,4 @@ https://www.ebay.it/itm/163454666990
      Serial.print("AP IP address: ");
      Serial.println(IP);
 
-     startCameraServer();
 
