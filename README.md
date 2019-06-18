@@ -2,6 +2,7 @@
 https://www.ebay.it/itm/163454666990
 
 ---------------------------------connect over router local or internet----------------------------------------------------------
+'''
 
   // Wi-Fi connection
   
@@ -34,4 +35,4 @@ https://www.ebay.it/itm/163454666990
   Serial.println(IP);
 
   startCameraServer();
-
+'''
