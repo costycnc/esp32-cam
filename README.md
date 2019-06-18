@@ -10,8 +10,7 @@ https://www.ebay.it/itm/163454666990
   
   while (WiFi.status() != WL_CONNECTED) {
   
-    delay(500);
-    
+    delay(500); 
     Serial.print(".");
     
   }
