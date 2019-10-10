@@ -1,6 +1,8 @@
 # esp32-cam
 https://www.ebay.it/itm/163454666990
 
+https://dl.esressif.com/dl/package_esp32_index.json
+
 ---------------------------------connect over router local or internet----------------------------------------------------------
        // Wi-Fi connection
      
