@@ -27,4 +27,5 @@ Development release link: https://raw.githubusercontent.com/espressif/arduino-es
      Serial.print("AP IP address: ");
      Serial.println(IP);
 
+![alt text](http://www.costycnc.it/arduino.jpg)
 
