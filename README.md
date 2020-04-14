@@ -26,6 +26,6 @@ Development release link: https://raw.githubusercontent.com/espressif/arduino-es
      IPAddress IP = WiFi.softAPIP();
      Serial.print("AP IP address: ");
      Serial.println(IP);
-
+![alt text](https://github.com/costycnc/esp32-cam/blob/master/wired.png)
 ![alt text](https://github.com/costycnc/esp32-cam/blob/master/prepare.jpg)
 
